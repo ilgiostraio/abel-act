@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8x648ijUmE7yhED9aQ1hD97YVo3PH5lateUoSMH50us186Zeh3YxI6k0zvaQhBXdcJQEf3n38XYflr5LsDL7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abel\\Documents\\ACT\\ACT_FACE\\FACEGui20\\FACEGui20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.enrichers.context\\4.2.0\\serilog.enrichers.context.4.2.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.exceptions\\6.1.0\\serilog.exceptions.6.1.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.async\\1.4.0\\serilog.sinks.async.1.4.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.console\\3.1.1\\serilog.sinks.console.3.1.1.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.file\\4.1.0\\serilog.sinks.file.4.1.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.http\\7.2.0\\serilog.sinks.http.7.2.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.periodicbatching\\2.3.0\\serilog.sinks.periodicbatching.2.3.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.rollingfile\\3.3.0\\serilog.sinks.rollingfile.3.3.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog.sinks.seq\\5.0.0\\serilog.sinks.seq.5.0.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilogmetrics\\2.1.0\\serilogmetrics.2.1.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\sharpdx.directinput\\4.2.0\\sharpdx.directinput.4.2.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\unnoficial.microsoft.expression.drawing\\1.0.0\\unnoficial.microsoft.expression.drawing.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGQqV8TuNAGMxZmtoox6FaPGNY50zPJ/2iA9Ea3Wd5IcT1FolOxs+hZOkgNWdbN/2YRZwKyg3Pa2gG3rfeqDJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\ControllersLibrary\\Act.Lib.ControllersLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abel\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\sharpdx.directinput\\4.2.0\\sharpdx.directinput.4.2.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\unnoficial.microsoft.expression.drawing\\1.0.0\\unnoficial.microsoft.expression.drawing.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

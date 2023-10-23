@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/avFjG1m3oaFr/921wy51GwBuuOLY2EwdlMfYeQChL//OCQw0mVva8BctoKM0StY7OA3fQzkx79FpHlhAHHeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abel\\.nuget\\packages\\act.lib.facecontrol\\1.0.0\\act.lib.facecontrol.1.0.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilogmetrics\\2.1.0\\serilogmetrics.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

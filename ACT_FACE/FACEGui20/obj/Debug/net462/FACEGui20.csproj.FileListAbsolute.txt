@@ -1,0 +1,262 @@
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.cache
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.lref
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.baml
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.g.resources
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.pdb
+F:\Git_repo\Abel\ACT\bin\Debug\net462\FACE\Config\ConfigCOLLOPISA.xml
+F:\Git_repo\Abel\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe.config
+F:\Git_repo\Abel\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe
+F:\Git_repo\Abel\ACT\bin\Debug\net462\Act.Face.FACEGui20.pdb
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csprojAssemblyReference.cache
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfoInputs.cache
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfo.cs
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CoreCompileInputs.cache
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CopyComplete
+F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.exe
+F:\Git_repo\Abel\ACT\bin\Debug\net462\FACE\ECS_FACE.xml
+F:\Git_repo\Abel\ACT\bin\Debug\net462\Abel\ECS_Abel.xml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.AssemblyReference.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.lref
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.g.resources
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Debug\net462\Abel\ECS_Abel.xml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Debug\net462\FACE\ECS_FACE.xml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Debug\net462\FACE\Config\ConfigCOLLOPISA.xml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe.config
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfoInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfo.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CopyComplete
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.lref
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.g.resources
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Debug\net462\Abel\ECS_Abel.xml
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Debug\net462\FACE\ECS_FACE.xml
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe.config
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfo.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CopyComplete
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.lref
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.g.resources
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\FACE\ECS_FACE.xml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe.config
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfo.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CopyComplete
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Abel\ECS_Abel.xml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\MotorConfig.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\LookAtWin.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ECSWin.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\ViewView.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\NetView.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\FACEditView.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\ErrorDialog.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\View\AbelEditView.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\ManualControl.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\QuestionDialog.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\SettingsDialog.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Windows Dialog\WarningDialog.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\App.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GeneratedInternalTypeHelper.g.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.cache
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20_MarkupCompile.lref
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\GamepadConfig.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\ToolBar.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\TopMenu.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\UI\LeftMenu.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20Win.baml
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.g.resources
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Abel\ECS_Abel.xml
+C:\Users\abel\Documents\ACT\bin\Debug\net462\FACE\ECS_FACE.xml
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe.config
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Act.Face.FACEGui20.pdb
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.AssemblyInfo.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\FACEGui20.csproj.CopyComplete
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\Act.Face.FACEGui20.exe

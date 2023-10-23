@@ -1,0 +1,66 @@
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Lib.AppResources.dll
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Lib.AppResources.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.csproj.AssemblyReference.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Button.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\ButtonImage.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Checkbox2.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Checkbox.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Combobox.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\ControlButton.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Expander.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Groupbox.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Menu.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Progressbar.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Radiobutton.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\RoundButton.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Scrollbar.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Scrollviewer.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Shared.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Slider2.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Slider.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Tabpanel.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Textbox2.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Textbox.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\TextboxClock.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Toolbar.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Tooltip.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources_MarkupCompile.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.g.resources
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.AssemblyInfoInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.AssemblyInfo.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.dll
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Lib.AppResources.dll
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Lib.AppResources.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Button.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\ButtonImage.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Checkbox2.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Checkbox.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Combobox.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\ControlButton.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Expander.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Groupbox.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Menu.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Progressbar.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Radiobutton.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\RoundButton.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Scrollbar.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Scrollviewer.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Shared.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Slider2.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Slider.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Tabpanel.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Textbox2.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Textbox.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\TextboxClock.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Toolbar.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Resources\Tooltip.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources_MarkupCompile.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.g.resources
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.AssemblyInfo.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.dll
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\AppResources\obj\Release\net462\Act.Lib.AppResources.pdb

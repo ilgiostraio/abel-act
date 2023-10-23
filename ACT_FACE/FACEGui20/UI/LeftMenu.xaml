@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="Act.Face.FACEGui20.UI.LeftMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             
+             xmlns:local="clr-namespace:Act.Face.FACEGui20.UI"
+
+             mc:Ignorable="d" Loaded="UserControl_Loaded" 
+             d:DesignHeight="778" d:DesignWidth="63">
+
+   
+
+    <Grid>
+        <StackPanel Margin="0,0" Orientation="Vertical">
+            <Button Name="ViewButton" x:Uid="View" Click="updateVisualMode_Click" ToolTip="View mode" Width="50" Height="50" Background="{x:Null}" Padding="0" Margin="5" >
+                <Image Source="/Images/Buttons/view.png" Width="30"  />
+            </Button>
+            <Button Name="EditButton"  x:Uid="Edit" Click="updateVisualMode_Click" ToolTip="Edit mode" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/edit.png" Width="30" />
+            </Button>
+            <Button Name="NetButton"  x:Uid="Net" Click="updateVisualMode_Click" ToolTip="Net mode" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/net.png" Width="30" />
+            </Button>
+            <Button Name="ECSButton"  Click="ECSButton_Click" ToolTip="ECS mode" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/ecs.png" Width="30" />
+            </Button>
+            <Button Name="GamepadButton" Click="GamepadButton_Click" ToolTip="Gamepad mode" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/game.png" Width="30"  />
+            </Button>
+            <Button Name="RecognitionTestButton"  Click="updateVisualMode_Click" ToolTip="Test mode" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/test.png" Width="30" />
+            </Button>
+            <!--<Button Name="ConfigButton"  Click="ConfigButton_Click" ToolTip="Config" Width="50" Height="50" Visibility="Collapsed">
+                <Image Source="/Images/Buttons/FaceConfig.png" Width="30" />
+            </Button>-->
+
+            <Button Name="StatusButton"  Click="StatusButton_Click" ToolTip="Status monitor" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/monitor.png" Width="30" />
+            </Button>
+            <Button Name="LookAtButton"  Click="LookAtButton_Click" ToolTip="LookAt mode" Width="50" Height="50" Background="{x:Null}" Margin="5">
+                <Image Source="/Images/Buttons/lookAt.png"  Width="30" />
+            </Button>
+
+        </StackPanel>
+
+    </Grid>
+
+</UserControl>

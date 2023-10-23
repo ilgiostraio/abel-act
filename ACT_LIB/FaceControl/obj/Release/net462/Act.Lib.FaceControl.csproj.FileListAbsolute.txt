@@ -1,0 +1,27 @@
+F:\Git_repo\Abel\ACT\bin\Release\net462\Act.Lib.FaceControl.dll
+F:\Git_repo\Abel\ACT\bin\Release\net462\Act.Lib.FaceControl.pdb
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csprojAssemblyReference.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.AssemblyInfoInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.AssemblyInfo.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.CoreCompileInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.CopyComplete
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.dll
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Lib.FaceControl.dll
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Lib.FaceControl.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.AssemblyInfoInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.AssemblyInfo.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.CopyComplete
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.dll
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Lib.FaceControl.dll
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Lib.FaceControl.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.AssemblyInfo.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.csproj.CopyComplete
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.dll
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\FaceControl\obj\Release\net462\Act.Lib.FaceControl.pdb

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj",
+        "projectName": "Act.Control.HUBRobotControl",
+        "projectPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj",
+        "packagesPath": "C:\\Users\\abel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\abel\\.nuget\\packages\\act.lib.facecontrol\\1.0.0": {},
+          "C:\\Users\\abel\\Desktop\\ACT_DOGMA\\ACT\\ACT_LIB\\AppResources\\bin\\Debug": {},
+          "C:\\Users\\abel\\Documents\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\bin\\Debug\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Act.Lib.FaceControl": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

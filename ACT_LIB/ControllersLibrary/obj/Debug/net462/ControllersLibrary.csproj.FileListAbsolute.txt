@@ -1,0 +1,14 @@
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\ControllersLibrary.csprojAssemblyReference.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\GamepadController.baml
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\Resources\ContainerStyle.baml
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\SliderController.baml
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\GamepadController.g.cs
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\SliderController.g.cs
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\Act.Lib.ControllersLibrary_MarkupCompile.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\bin\Debug\net462\Act.Lib.ControllersLibrary.dll
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\ECSController.baml
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\ECSController.g.cs
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\Act.Lib.ControllersLibrary.g.resources
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\ControllersLibrary.AssemblyInfoInputs.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\ControllersLibrary.AssemblyInfo.cs
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_LIB\ControllersLibrary\obj\Debug\net462\ControllersLibrary.csproj.CopyComplete

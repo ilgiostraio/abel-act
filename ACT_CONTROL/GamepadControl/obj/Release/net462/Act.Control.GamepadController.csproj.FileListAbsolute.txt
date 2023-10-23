@@ -1,0 +1,48 @@
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\MainWindow.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\App.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController_MarkupCompile.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController_MarkupCompile.lref
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Control.GamepadController.exe.config
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Control.GamepadController.exe
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Control.GamepadController.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\MainWindow.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.g.resources
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.AssemblyInfoInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.AssemblyInfo.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.CopyComplete
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.exe
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\MainWindow.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\App.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController_MarkupCompile.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController_MarkupCompile.lref
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.exe
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Control.GamepadController.exe.config
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Control.GamepadController.exe
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Control.GamepadController.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\MainWindow.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.g.resources
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.AssemblyInfo.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.CopyComplete
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\MainWindow.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\App.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController_MarkupCompile.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController_MarkupCompile.lref
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Release\net462\Act.Control.GamepadController.exe.config
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Release\net462\Act.Control.GamepadController.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Release\net462\Act.Control.GamepadController.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\MainWindow.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.g.resources
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.AssemblyInfo.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\GamepadControl\obj\Release\net462\Act.Control.GamepadController.csproj.CopyComplete

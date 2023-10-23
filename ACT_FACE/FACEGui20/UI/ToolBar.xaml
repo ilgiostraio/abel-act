@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="Act.Face.FACEGui20.UI.ToolBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             
+             xmlns:local="clr-namespace:Act.Face.FACEGui20.UI"
+
+             mc:Ignorable="d" Loaded="UserControl_Loaded" 
+             d:DesignHeight="34" d:DesignWidth="800">
+
+
+    <Grid>
+        <ToolBarTray Grid.Row="1" HorizontalAlignment="Stretch" Height="34" VerticalAlignment="Top" Background="Transparent">
+            <ToolBar Name="CommonButtonsToolbar" Height="34" Margin="-2,0,0,0" Band="0" BandIndex="0">
+                <ToolBar.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFFAF9F5" Offset="0.098"/>
+                        <GradientStop Color="#E5858585" Offset="1"/>
+                    </LinearGradientBrush>
+                </ToolBar.Background>
+                <Button Name="NewButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="New expression" Click="NewFileButton_Click" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/New-32.png" />
+                </Button>
+                <Button Name="LoadButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Open expression" Click="OpenButton_Click" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/Open-32.png" />
+                </Button>
+                <Button Name="SaveButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Save expression" Click="SaveButton_Click" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/File_save-32.png" />
+                </Button>
+                <Button Name="SaveAsButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Save expression as" Click="SaveAsButton_Click" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/File_save_as-32.png" />
+                </Button>
+                <Separator/>
+                <Separator/>
+                <Button Name="TestButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Test Expression" Click="TestExpressionButton_Click" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/Test-32.png" />
+                </Button>
+                <Separator/>
+                <Separator/>
+                <Button Name="HelpButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Help" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/Help-32.png" />
+                </Button>
+                <Separator/>
+                <Separator/>
+                <!--<Label>Robot used:</Label>
+                <ComboBox x:Name="robot" SelectionChanged="robot_SelectionChanged" SelectedValuePath="Content" Height="24" >
+                    <ComboBoxItem Content="FACE" IsSelected="True" />
+                    <ComboBoxItem Content="Abel" />
+                </ComboBox>-->
+            </ToolBar>
+
+        </ToolBarTray>
+    </Grid>
+
+</UserControl>

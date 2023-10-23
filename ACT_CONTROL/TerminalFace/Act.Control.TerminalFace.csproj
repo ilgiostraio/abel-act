@@ -1,0 +1,172 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFrameworks>net462</TargetFrameworks>
+		<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+		<OutputType>Exe</OutputType>
+		<NoWarn>168;219;1701;1702;1705</NoWarn>
+		<AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+		<RootNamespace>Act.Control.TerminalFace</RootNamespace>
+		<AssemblyName>Act.Control.TerminalFace</AssemblyName>
+		<StartupObject>TerminalFace.Runner</StartupObject>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net462|AnyCPU'">
+		<OutputPath>..\..\..\ACT\bin\Debug</OutputPath>
+		<PlatformTarget>AnyCPU</PlatformTarget>
+		<Prefer32Bit>true</Prefer32Bit>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net462|AnyCPU'">
+		<OutputPath>..\..\..\ACT\bin\Release</OutputPath>
+	</PropertyGroup>
+
+
+
+	<ItemGroup>
+
+
+		<Reference Include="ComUtils">
+			<HintPath>..\..\ComUtils.dll</HintPath>
+		</Reference>
+
+
+		<Reference Include="EasyConsole">
+		  <HintPath>..\..\..\..\FaceGUI\EasyConsole.dll</HintPath>
+		</Reference>
+
+		<Reference Include="PresentationCore" />
+		<Reference Include="PresentationFramework" />
+		<Reference Include="Sense.Lib.FACELibrary">
+		  <HintPath>..\bin\Debug\net462\Sense.Lib.FACELibrary.dll</HintPath>
+		</Reference>
+
+
+		<Reference Include="System.Configuration" />
+
+		<Reference Include="System.Xml.Linq" />
+		<Reference Include="System.Data.DataSetExtensions" />
+		<Reference Include="System.Data" />
+		<Reference Include="System.Deployment" />
+		<Reference Include="System.Drawing" />
+		<Reference Include="System.Xml" />
+		<Reference Include="WindowsBase" />
+		<Reference Include="System.Xaml" />
+		<Reference Include="YarpCS">
+		  <HintPath>..\..\bin\Debug\net462\YarpCS.dll</HintPath>
+		</Reference>
+		<Reference Include="YarpManagerCS">
+		  <HintPath>..\..\bin\Debug\net462\YarpManagerCS.dll</HintPath>
+		</Reference>
+
+
+		<None Include="App.config">
+			<SubType>Designer</SubType>
+		</None>
+	</ItemGroup>
+
+
+
+	<ItemGroup>
+	  <PackageReference Include="EasyConsole" Version="1.1.0" />
+	</ItemGroup>
+
+	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+		<Exec Command="xcopy &quot;$(SolutionDir)..\yarp.dll&quot; &quot;$(OutDir)&quot; /Y" />
+	</Target>
+
+</Project>
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA33327D-E523-4CE9-BC58-B287526FB852}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TerminalFace</RootNamespace>
+    <AssemblyName>TerminalFace</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>TerminalFace.Runner</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComUtils">
+      <HintPath>..\..\bin\Debug\ComUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="EasyConsole, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyConsole.1.1.0\lib\net452\EasyConsole.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FACELibrary">
+      <HintPath>..\..\FaceLibraryONE\FACELibrary\bin\Debug\net462\FACELibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="YarpCS">
+      <HintPath>..\..\CommunicationSystem\YarpManagerCS\YarpManagerCS\bin\Debug\net462\YarpCS.dll</HintPath>
+    </Reference>
+    <Reference Include="YarpManagerCS">
+      <HintPath>..\..\CommunicationSystem\YarpManagerCS\YarpManagerCS\bin\Debug\net462\YarpManagerCS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\ECS.cs" />
+    <Compile Include="Pages\LookAt.cs" />
+    <Compile Include="Pages\MainPage.cs" />
+    <Compile Include="Pages\Script.cs" />
+    <Compile Include="ReadDecimal.cs" />
+    <Compile Include="Runner.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TerminalMenu.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="test.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  -->
+<!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+<!--
+</Project>-->

@@ -1,0 +1,54 @@
+F:\Git_repo\Abel\ACT\bin\Release\net462\Act.Lib.ControllersLibrary.dll
+F:\Git_repo\Abel\ACT\bin\Release\net462\Act.Lib.ControllersLibrary.pdb
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csprojAssemblyReference.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\ECSController.baml
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\GamepadController.baml
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Resources\ContainerStyle.baml
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\SliderController.baml
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\ECSController.g.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\GamepadController.g.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\SliderController.g.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary_MarkupCompile.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.g.resources
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.AssemblyInfoInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.AssemblyInfo.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.CoreCompileInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.CopyComplete
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.dll
+F:\Git_repo\Abel\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Lib.ControllersLibrary.dll
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\bin\Release\net462\Act.Lib.ControllersLibrary.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.AssemblyReference.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\ECSController.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\GamepadController.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Resources\ContainerStyle.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\SliderController.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\ECSController.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\GamepadController.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\SliderController.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary_MarkupCompile.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.g.resources
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.AssemblyInfoInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.AssemblyInfo.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.CopyComplete
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.dll
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Lib.ControllersLibrary.dll
+C:\Users\abel\Documents\NON TOCCARE\ACT\bin\Release\net462\Act.Lib.ControllersLibrary.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\ECSController.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\GamepadController.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Resources\ContainerStyle.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\SliderController.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\ECSController.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\GamepadController.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\SliderController.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary_MarkupCompile.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.g.resources
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.AssemblyInfo.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.csproj.CopyComplete
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.dll
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_LIB\ControllersLibrary\obj\Release\net462\Act.Lib.ControllersLibrary.pdb

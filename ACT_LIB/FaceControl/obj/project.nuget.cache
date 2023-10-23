@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbQN7I1MKcScryZhvxlIn7YzULGgY90hZPVLCYwCDNLb9IKNa8L7RzBiIjol92M2ZmGKa6pA5X5UtaG16mQTcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abel\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\serilogmetrics\\2.1.0\\serilogmetrics.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

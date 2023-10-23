@@ -1,0 +1,30 @@
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe.config
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\bin\Debug\net462\Act.Control.TerminalFace.pdb
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csprojAssemblyReference.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.AssemblyInfoInputs.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.AssemblyInfo.cs
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.CopyComplete
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.exe
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.pdb
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe.config
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Debug\net462\Act.Control.TerminalFace.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.AssemblyInfo.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.CopyComplete
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.pdb
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe.config
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe
+C:\Users\abel\Documents\ACT\bin\Debug\net462\Act.Control.TerminalFace.pdb
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.AssemblyInfo.cs
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.csproj.CopyComplete
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.exe
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\Act.Control.TerminalFace.pdb

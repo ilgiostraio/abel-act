@@ -1,0 +1,20 @@
+﻿Act.Face.FACEGui20
+
+
+winexe
+C#
+.cs
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Debug\net462\
+Act.Face.FACEGui20
+none
+false
+TRACE;DEBUG;NETFRAMEWORK;NET462;
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\App.xaml
+1750144683
+
+182086914573
+158805353404
+MotorConfig.xaml;GamepadConfig.xaml;LookAtWin.xaml;ECSWin.xaml;UI\ToolBar.xaml;UI\TopMenu.xaml;UI\LeftMenu.xaml;View\ViewView.xaml;View\NetView.xaml;View\FACEditView.xaml;Windows Dialog\ErrorDialog.xaml;FACEGui20Win.xaml;View\AbelEditView.xaml;ManualControl.xaml;Windows Dialog\QuestionDialog.xaml;Windows Dialog\SettingsDialog.xaml;Windows Dialog\WarningDialog.xaml;
+
+False
+

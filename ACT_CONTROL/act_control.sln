@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Act.Control.HUBRobotControl", "FACERobotControl\Act.Control.HUBRobotControl.csproj", "{5807C402-0362-4EB8-8C32-2C08856C8201}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Act.Control.TerminalFace", "TerminalFace\Act.Control.TerminalFace.csproj", "{8C54CD8F-71D9-4292-B685-C8F72706A289}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Act.Control.GamepadController", "GamepadControl\Act.Control.GamepadController.csproj", "{40AE64D7-FE31-4ABB-9E00-AC64B7CF0F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5807C402-0362-4EB8-8C32-2C08856C8201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5807C402-0362-4EB8-8C32-2C08856C8201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5807C402-0362-4EB8-8C32-2C08856C8201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5807C402-0362-4EB8-8C32-2C08856C8201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C54CD8F-71D9-4292-B685-C8F72706A289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C54CD8F-71D9-4292-B685-C8F72706A289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C54CD8F-71D9-4292-B685-C8F72706A289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C54CD8F-71D9-4292-B685-C8F72706A289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AE64D7-FE31-4ABB-9E00-AC64B7CF0F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AE64D7-FE31-4ABB-9E00-AC64B7CF0F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AE64D7-FE31-4ABB-9E00-AC64B7CF0F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AE64D7-FE31-4ABB-9E00-AC64B7CF0F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEE0733-3BF3-4E21-9D98-DCF5743680AE}
+	EndGlobalSection
+EndGlobal

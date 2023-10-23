@@ -1,0 +1,47 @@
+﻿<Window x:Class="Act.Control.GamepadController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Act.Control.GamepadController"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="526.125" Width="888.8" ResizeMode="NoResize" SizeToContent="Width" Closed="Window_Closed" >
+    <Grid>
+
+        <Canvas Height="500" Margin="0,0,0,0" Width="888.8">
+            <Image x:Name="cb_new_jpg" Margin="0,0,0,0" Source="pack://siteoforigin:,,,/Resources/cb_final.jpg" VerticalAlignment="Top" Height="500" Width="889" Stretch="UniformToFill" OpacityMask="{x:Null}" />
+            <Label x:Name="lblNoConnected" Content="Controller NO connected " Foreground="Red" FontSize="16" Canvas.Left="344" Canvas.Top="74" Visibility="Hidden"></Label>
+
+            <Ellipse x:Name="pointYel" Width="20" Height="20" 
+                     Fill="Yellow" Stroke="Yellow" StrokeThickness="2" 
+                     Canvas.Left="389" Canvas.Top="269" Visibility="Hidden" />
+
+            <Label x:Name="lblLeftShoulder" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="75" Canvas.Top="107" Foreground="#ffffff"/>
+
+            <Label x:Name="lblLeftTrigger" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="75" Canvas.Top="149" Foreground="#ffffff"/>
+            <Label x:Name="lblLeftThumb" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="76" Canvas.Top="242" Foreground="#ffffff"/>
+            <Label x:Name="lblDPadUp" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="76" Canvas.Top="285" Foreground="#ffffff"/>
+            <Label x:Name="lblDPadRight" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="76" Canvas.Top="305" Foreground="#ffffff"/>
+            <Label x:Name="lblDPadLeft" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="76" Canvas.Top="325" Foreground="#ffffff"/>
+            <Label x:Name="lblDPadDown" Content="Label" Width="120" HorizontalContentAlignment="Right" Canvas.Left="76" Canvas.Top="345" Foreground="#ffffff"/>
+
+            <Label x:Name="lblRightShoulder" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="106" Foreground="#ffffff"/>
+            <Label x:Name="lblRightTrigger" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="149" Foreground="#ffffff"/>
+            <Label x:Name="lblX" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="179" Foreground="#ffffff"/>
+            <Label x:Name="lblY" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="210" Foreground="#ffffff"/>
+            <Label x:Name="lblB" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="235" Foreground="#ffffff"/>
+            <Label x:Name="lblA" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="263" Foreground="#ffffff"/>
+            <Label x:Name="lblRightThumb" Content="Label" Width="120" HorizontalContentAlignment="Left" Canvas.Left="689" Canvas.Top="305" Foreground="#ffffff"/>
+
+            <Label x:Name="lblGamapad" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="28" Width="756" Margin="0,0,0,0" Canvas.Left="10" Canvas.Top="462"/>
+            <StackPanel Name="Yarp" Orientation="Horizontal" Height="28" Canvas.Left="800" Canvas.Top="462" >
+                <Ellipse Height="10" Name="Ellyarp" Fill="Red" Width="10" />
+                <Label Content="Yarp Server" FontSize="12" Foreground="White" FontWeight="Normal" />
+            </StackPanel>
+
+
+
+        </Canvas>
+
+    </Grid>
+</Window>

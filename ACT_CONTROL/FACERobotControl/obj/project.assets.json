@@ -1,0 +1,272 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {
+      "Act.Lib.FaceControl/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Serilog": "2.10.0",
+          "SerilogMetrics": "2.1.0"
+        },
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net462/Act.Lib.FaceControl.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Act.Lib.FaceControl.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Serilog/2.10.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net46/Serilog.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Serilog.dll": {}
+        }
+      },
+      "SerilogMetrics/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Serilog": "2.8.0"
+        },
+        "compile": {
+          "lib/net46/SerilogMetrics.dll": {}
+        },
+        "runtime": {
+          "lib/net46/SerilogMetrics.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win10-x64": {
+      "Act.Lib.FaceControl/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Serilog": "2.10.0",
+          "SerilogMetrics": "2.1.0"
+        },
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net462/Act.Lib.FaceControl.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Act.Lib.FaceControl.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Serilog/2.10.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net46/Serilog.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Serilog.dll": {}
+        }
+      },
+      "SerilogMetrics/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Serilog": "2.8.0"
+        },
+        "compile": {
+          "lib/net46/SerilogMetrics.dll": {}
+        },
+        "runtime": {
+          "lib/net46/SerilogMetrics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act.Lib.FaceControl/1.0.0": {
+      "sha512": "aWnQpMeYfMBQY2ZAS4jd1kutH2JkHzpGH5/GXvImRWDwLk4AS6dNT2WGQ1p3OsDshoapSJzdT2mvCq/0vn/pfg==",
+      "type": "package",
+      "path": "act.lib.facecontrol/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "act.lib.facecontrol.1.0.0.nupkg.sha512",
+        "act.lib.facecontrol.nuspec",
+        "lib/net462/Act.Lib.FaceControl.dll"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Serilog/2.10.0": {
+      "sha512": "+QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==",
+      "type": "package",
+      "path": "serilog/2.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net45/Serilog.dll",
+        "lib/net45/Serilog.xml",
+        "lib/net46/Serilog.dll",
+        "lib/net46/Serilog.xml",
+        "lib/netstandard1.0/Serilog.dll",
+        "lib/netstandard1.0/Serilog.xml",
+        "lib/netstandard1.3/Serilog.dll",
+        "lib/netstandard1.3/Serilog.xml",
+        "lib/netstandard2.0/Serilog.dll",
+        "lib/netstandard2.0/Serilog.xml",
+        "lib/netstandard2.1/Serilog.dll",
+        "lib/netstandard2.1/Serilog.xml",
+        "serilog.2.10.0.nupkg.sha512",
+        "serilog.nuspec"
+      ]
+    },
+    "SerilogMetrics/2.1.0": {
+      "sha512": "LoPcCh0nAEEfwt7pLw6n+jYH9PWL7euYnX2bSek8IhRlfRaGmkfS1IMhzN+TouC1CS9oJKe78KJUZ7ylPVX2Hw==",
+      "type": "package",
+      "path": "serilogmetrics/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/SerilogMetrics.dll",
+        "lib/net45/SerilogMetrics.xml",
+        "lib/net46/SerilogMetrics.dll",
+        "lib/net46/SerilogMetrics.xml",
+        "lib/netstandard1.0/SerilogMetrics.dll",
+        "lib/netstandard1.0/SerilogMetrics.xml",
+        "lib/netstandard1.3/SerilogMetrics.dll",
+        "lib/netstandard1.3/SerilogMetrics.xml",
+        "lib/netstandard2.0/SerilogMetrics.dll",
+        "lib/netstandard2.0/SerilogMetrics.xml",
+        "serilogmetrics.2.1.0.nupkg.sha512",
+        "serilogmetrics.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": [
+      "Act.Lib.FaceControl >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj",
+      "projectName": "Act.Control.HUBRobotControl",
+      "projectPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\Act.Control.HUBRobotControl.csproj",
+      "packagesPath": "C:\\Users\\abel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_CONTROL\\FACERobotControl\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\abel\\.nuget\\packages\\act.lib.facecontrol\\1.0.0": {},
+        "C:\\Users\\abel\\Desktop\\ACT_DOGMA\\ACT\\ACT_LIB\\AppResources\\bin\\Debug": {},
+        "C:\\Users\\abel\\Documents\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\bin\\Debug\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net462": {
+        "targetAlias": "net462",
+        "dependencies": {
+          "Act.Lib.FaceControl": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
+      }
+    }
+  }
+}

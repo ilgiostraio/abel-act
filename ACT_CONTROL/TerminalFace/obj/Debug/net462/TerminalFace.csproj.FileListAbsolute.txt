@@ -1,0 +1,6 @@
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe.config
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\bin\Debug\net462\Act.Control.TerminalFace.exe
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\TerminalFace.csprojAssemblyReference.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\TerminalFace.AssemblyInfoInputs.cache
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\TerminalFace.AssemblyInfo.cs
+F:\Git_repo\FACETeamProject\NewArchitecture\ACT\ACT_CONTROL\TerminalFace\obj\Debug\net462\TerminalFace.csproj.CopyComplete

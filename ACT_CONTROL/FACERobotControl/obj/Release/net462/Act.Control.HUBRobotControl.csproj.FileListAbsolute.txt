@@ -1,0 +1,95 @@
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\Images\logo1.png
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\Images\logocp.png
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\Images\Unipi_completa.jpg
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\ECS_Abel.xml
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\ECS_FACE.xml
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe.config
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe
+F:\Git_repo\Abel\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.pdb
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.baml
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.baml
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.g.cs
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.g.cs
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\App.g.cs
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl_MarkupCompile.cache
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.g.resources
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.Properties.Resources.resources
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.GenerateResource.cache
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfoInputs.cache
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfo.cs
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CoreCompileInputs.cache
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CopyComplete
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.exe
+F:\Git_repo\Abel\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.baml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\App.g.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl_MarkupCompile.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.g.resources
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.Properties.Resources.resources
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.GenerateResource.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfoInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfo.cs
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.exe
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\Images\logo1.png
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\Images\logocp.png
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\Images\Unipi_completa.jpg
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\ECS_Abel.xml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\ECS_FACE.xml
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe.config
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.pdb
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CopyComplete
+C:\Users\abel\Desktop\ACT_DOGMA\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Images\logo1.png
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Images\logocp.png
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Images\Unipi_completa.jpg
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\ECS_Abel.xml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\ECS_FACE.xml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe.config
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.pdb
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.baml
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\App.g.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl_MarkupCompile.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.g.resources
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.Properties.Resources.resources
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.GenerateResource.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfo.cs
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CopyComplete
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.exe
+C:\Users\abel\Documents\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Images\logo1.png
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Images\logocp.png
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Images\Unipi_completa.jpg
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\ECS_Abel.xml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\ECS_FACE.xml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe.config
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\bin\Release\net462\Act.Control.HUBRobotControl.pdb
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.baml
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\MainWindow.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\YarpMonitor.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\App.g.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl_MarkupCompile.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.g.resources
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.Properties.Resources.resources
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.GenerateResource.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.AssemblyInfo.cs
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.csproj.CopyComplete
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.exe
+C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\FACERobotControl\obj\Release\net462\Act.Control.HUBRobotControl.pdb

@@ -1,0 +1,16 @@
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FaceControl.AssemblyInfoInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FaceControl.AssemblyInfo.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FaceControl.csproj.CoreCompileInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FaceControl.csproj.CopyComplete
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FACEBodyControl.dll
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FACEBodyControl.pdb
+F:\Git_repo\Abel\ACT\ACT_LIB\FACEBodyControl\obj\Debug\net462\Act.Lib.FaceControl.csprojAssemblyReference.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.AssemblyInfoInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.AssemblyInfo.cs
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.csproj.CoreCompileInputs.cache
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.csproj.CopyComplete
+F:\Git_repo\Abel\ACT\bin\Debug\net462\Act.Lib.FaceControl.dll
+F:\Git_repo\Abel\ACT\bin\Debug\net462\Act.Lib.FaceControl.pdb
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.dll
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.pdb
+F:\Git_repo\Abel\ACT\ACT_LIB\FaceControl\obj\Debug\net462\Act.Lib.FaceControl.csprojAssemblyReference.cache
