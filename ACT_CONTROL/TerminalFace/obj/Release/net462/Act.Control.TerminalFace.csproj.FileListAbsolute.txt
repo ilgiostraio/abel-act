@@ -28,3 +28,13 @@ C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Release\net462\Ac
 C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Release\net462\Act.Control.TerminalFace.exe
 C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\bin\Release\net462\Act.Control.TerminalFace.pdb
 C:\Users\abel\Documents\backup NON TOCCARE\NON TOCCARE\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.csproj.CopyComplete
+C:\Users\abel\Documents\ACT\bin\Release\net462\Act.Control.TerminalFace.exe.config
+C:\Users\abel\Documents\ACT\bin\Release\net462\Act.Control.TerminalFace.exe
+C:\Users\abel\Documents\ACT\bin\Release\net462\Act.Control.TerminalFace.pdb
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.csproj.AssemblyReference.cache
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.AssemblyInfoInputs.cache
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.AssemblyInfo.cs
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.csproj.CoreCompileInputs.cache
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.csproj.CopyComplete
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.exe
+C:\Users\abel\Documents\ACT\ACT_CONTROL\TerminalFace\obj\Release\net462\Act.Control.TerminalFace.pdb
