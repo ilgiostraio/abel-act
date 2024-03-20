@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "W8x648ijUmE7yhED9aQ1hD97YVo3PH5lateUoSMH50us186Zeh3YxI6k0zvaQhBXdcJQEf3n38XYflr5LsDL7A==",
+  "dgSpecHash": "Y6NfngRbD7ulkQTmM2+UzbU4d0p5MEXtypXAMAM5eqLZrWq+EcjoOkAxPdZF//RoJ0G4tnjeAgkacYYJyng8rQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\abel\\Documents\\ACT\\ACT_FACE\\FACEGui20\\FACEGui20.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\abel\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\abel\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
     "C:\\Users\\abel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\abel\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
     "C:\\Users\\abel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",

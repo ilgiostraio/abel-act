@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj": {}
+    "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj": {
+    "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj": {
       "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj",
+        "projectUniqueName": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj",
         "projectName": "Act.Lib.FaceControl",
-        "projectPath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj",
+        "projectPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\FaceControl\\Act.Lib.FaceControl.csproj",
         "packagesPath": "C:\\Users\\abel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\FaceControl\\obj\\",
+        "outputPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\FaceControl\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj": {}
+    "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj": {
+    "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj",
+        "projectUniqueName": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj",
         "projectName": "Act.Lib.AppResources",
-        "projectPath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj",
+        "projectPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\AppResources\\Act.Lib.AppResources.csproj",
         "packagesPath": "C:\\Users\\abel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\AppResources\\obj\\",
+        "outputPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\AppResources\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

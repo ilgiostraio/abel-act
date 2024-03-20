@@ -49,3 +49,5 @@ F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Release\net462\FACEGui20.AssemblyInf
 F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Release\net462\FACEGui20.csproj.CoreCompileInputs.cache
 F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Release\net462\FACEGui20.csproj.CopyComplete
 F:\Git_repo\Abel\ACT\ACT_FACE\FACEGui20\obj\Release\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Release\net462\Act.Face.FACEGui20.exe
+C:\Users\abel\Documents\ACT\ACT_FACE\FACEGui20\obj\Release\net462\Act.Face.FACEGui20.pdb

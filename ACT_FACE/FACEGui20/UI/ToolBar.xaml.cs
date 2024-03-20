@@ -2,7 +2,11 @@
 using Act.Lib.Control;
 using Act.Lib.ControllersLibrary;
 using Act.Lib.Robot;
+using AForge.Video;
+using AForge.Video.DirectShow;
 using System;
+using System.Drawing;
+using System.Drawing.Imaging;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -20,6 +24,79 @@ using System.Windows.Shapes;
 
 namespace Act.Face.FACEGui20.UI
 {
+    class FrameGrabber
+    {
+        public static void Main(string arg)
+        {
+            // Verifica che sia stata passata almeno una stringa come argomento
+            if (arg.Length == 0)
+            {
+                Console.WriteLine("Specificare un nome per l'immagine.");
+                return;
+            }
+
+            // Inizializza la cattura dalla webcam
+            FilterInfoCollection videoDevices = new FilterInfoCollection(FilterCategory.VideoInputDevice);
+
+            // Stampa a video l'elenco dei dispositivi video disponibili
+            System.Diagnostics.Debug.WriteLine("Dispositivi video disponibili:");
+            foreach (FilterInfo device in videoDevices)
+            {
+                System.Diagnostics.Debug.WriteLine($"{device.Name}");
+            }
+
+            if (videoDevices.Count == 0)
+            {
+                System.Diagnostics.Debug.WriteLine("Nessun dispositivo video trovato.");
+                return;
+            }
+
+            // Seleziona il dispositivo di cattura (assicurati che l'indice sia valido)
+            int deviceIndex = 0; // Assicurati che questo indice sia minore di videoDevices.Count
+            if (deviceIndex >= videoDevices.Count)
+            {
+                System.Diagnostics.Debug.WriteLine($"Indice del dispositivo non valido: {deviceIndex}. Utilizzare un indice da 0 a {videoDevices.Count - 1}.");
+                return;
+            }
+            VideoCaptureDevice captureDevice = new VideoCaptureDevice(videoDevices[deviceIndex].MonikerString);
+
+            // Imposta la risoluzione desiderata (es. 640x480)
+            // Assicurati che ci siano capacità video disponibili prima di impostarne una
+            if (captureDevice.VideoCapabilities.Length > 0)
+            {
+                captureDevice.VideoResolution = captureDevice.VideoCapabilities[0]; // Puoi scegliere diverse risoluzioni qui
+            }
+
+            // Imposta la risoluzione desiderata (es. 640x480)
+            captureDevice.VideoResolution = captureDevice.VideoCapabilities[0];
+
+            // Gestisci l'evento NewFrame per ottenere il fotogramma dalla webcam
+            captureDevice.NewFrame += (sender, eventArgs) => CaptureDevice_NewFrame(sender, eventArgs, arg);
+
+            // Avvia la cattura
+            captureDevice.Start();
+
+            // Attendi l'input dell'utente per terminare il programma
+            // System.Diagnostics.Debug.WriteLine("Premi un tasto per terminare...");
+            // System.Diagnostics.Debug.ReadKey();
+
+            // Ferma la cattura e rilascia le risorse
+            captureDevice.SignalToStop();
+            captureDevice.Stop();
+        }
+
+        private static void CaptureDevice_NewFrame(object sender, NewFrameEventArgs eventArgs, string outputFileName)
+        {
+            // Ottieni il fotogramma dalla webcam
+            Bitmap frame = (Bitmap)eventArgs.Frame.Clone();
+
+            // Salva il fotogramma come immagine con il nome specificato
+            string outputFilePath = outputFileName + ".jpg";
+            frame.Save(outputFilePath);
+
+            Console.WriteLine($"Immagine catturata e salvata in {outputFilePath}");
+        }
+    }
     public partial class ToolBar: UserControl
     {
         FACEGui20Win parent;
@@ -174,6 +251,84 @@ namespace Act.Face.FACEGui20.UI
                 parent.loading = false;
             }
         }
+
+        private void OpenButton_Click_2(object sender, RoutedEventArgs e)
+        {
+            parent.loading = true;
+
+            Microsoft.Win32.OpenFileDialog dlg;
+            dlg = new Microsoft.Win32.OpenFileDialog();
+            dlg.InitialDirectory = parent.expressionsPath;
+            dlg.FileName = ""; // Default file name
+            dlg.DefaultExt = ".xml"; // Default file extension
+            dlg.Filter = "XML file (*.xml)|*.xml"; // Filter files by extension
+            dlg.RestoreDirectory = true;
+
+            Nullable<bool> result;
+            result = dlg.ShowDialog();
+
+            if (result == true)
+            {
+                lastOpenFilename = dlg.FileName;
+                RobotMotion motion = RobotMotion.LoadFromXmlFormat(lastOpenFilename);
+
+                switch (parent.visualMode)
+                {
+                    case Mode.View:
+                        break;
+
+                    case Mode.Edit:
+                        try
+                        {
+                            float defValue = 0;
+                            for (int i = 0; i < motion.ServoMotorsList.Count; i++)
+                            {
+                                defValue = motion.ServoMotorsList[i].PulseWidthNormalized;
+
+                                DockPanel dp = parent.sliders[i].Content as DockPanel;
+                                int index = Int32.Parse(dp.Uid);
+                                StackPanel sp = dp.Children[1] as StackPanel;
+
+                                for (int k = 0; k < VisualTreeHelper.GetChildrenCount(sp); k++)
+                                {
+                                    Visual childVisual = (Visual)VisualTreeHelper.GetChild(sp, k);
+                                    if (childVisual.GetType() == typeof(Slider))
+                                    {
+                                        if (defValue != -1)
+                                        {
+                                            (dp.Children[0] as CheckBox).IsChecked = true;
+                                            (childVisual as Slider).Value = defValue;
+                                        }
+                                        else
+                                        {
+                                            (childVisual as Slider).Value = RobotControl.DefaultMotorState[index].PulseWidthNormalized;
+                                            (dp.Children[0] as CheckBox).IsChecked = false;
+                                        }
+                                    }
+                                }
+                            }
+                            //PleasureTextbox.Text = motion.ECSCoord.Pleasure.ToString();
+                            //ArousalTextbox.Text = motion.ECSCoord.Arousal.ToString();
+                            //DominanceTextbox.Text = motion.ECSCoord.Dominance.ToString();
+                            //NameTextbox.Text = motion.Name;
+                        }
+                        catch (RobotException fEx)
+                        {
+                            parent.TextError.Text = "Error occurs loading " + dlg.FileName.ToString().Remove(dlg.FileName.Length - 4) + " file.";
+                            ErrorDialog errorDiag = new ErrorDialog();
+                            errorDiag.tbInstructionText.Text = fEx.Message;
+                            errorDiag.Show();
+                        }
+                        break;
+                }
+                parent.loading = false;
+
+                FrameGrabber.Main(lastOpenFilename);
+
+            }
+
+        }
+
 
 
         /// <summary>

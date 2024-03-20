@@ -83,6 +83,7 @@
           <Generator>MSBuild:Compile</Generator>
           <SubType>Designer</SubType>
         </ApplicationDefinition>
+        <PackageReference Include="AForge.Video.DirectShow" Version="2.2.5" />
         
         <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
         

@@ -25,6 +25,9 @@
                 <Button Name="LoadButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Open expression" Click="OpenButton_Click" Margin="2,0,0,0" Width="36">
                     <Image Source="/Images/ToolbarMenu/Open-32.png" />
                 </Button>
+                <Button Name="LoadButton2" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Open expression" Click="OpenButton_Click_2" Margin="2,0,0,0" Width="36">
+                    <Image Source="/Images/ToolbarMenu/Open-32.png" />
+                </Button>
                 <Button Name="SaveButton" Style="{StaticResource ToolBarButtonBaseStyle}" ToolTip="Save expression" Click="SaveButton_Click" Margin="2,0,0,0" Width="36">
                     <Image Source="/Images/ToolbarMenu/File_save-32.png" />
                 </Button>

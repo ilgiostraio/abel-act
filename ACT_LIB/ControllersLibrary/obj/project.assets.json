@@ -139,11 +139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\ControllersLibrary\\Act.Lib.ControllersLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\ControllersLibrary\\Act.Lib.ControllersLibrary.csproj",
       "projectName": "Act.Lib.ControllersLibrary",
-      "projectPath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\ControllersLibrary\\Act.Lib.ControllersLibrary.csproj",
+      "projectPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\ControllersLibrary\\Act.Lib.ControllersLibrary.csproj",
       "packagesPath": "C:\\Users\\abel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abel\\Documents\\backup NON TOCCARE\\NON TOCCARE\\ACT\\ACT_LIB\\ControllersLibrary\\obj\\",
+      "outputPath": "C:\\Users\\abel\\Documents\\ACT\\ACT_LIB\\ControllersLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
