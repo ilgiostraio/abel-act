@@ -257,6 +257,8 @@ namespace Act.Face.FACEGui20
                     dp.Name = name + dp.Name;
 
                     CheckBox cb = dp.Children[0] as CheckBox;
+                    if (index < 0 || index >= RobotControl.CurrentMotorState.Count) continue;
+
                     if (!String.IsNullOrEmpty(RobotControl.CurrentMotorState[index].SerialSC))
                         cb.IsChecked = true;
                     else
