@@ -24,6 +24,7 @@ using Act.Lib.ServoController;
 using Sense.Lib.FACELibrary;
 using YarpManagerCS;
 using Newtonsoft.Json;
+using System.Diagnostics;
 
 namespace Act.Control.HUBRobotControl
 {
@@ -290,9 +291,32 @@ namespace Act.Control.HUBRobotControl
 
                     try
                     {
+                        int animationDurationMs = -1;
+                        Debug.WriteLine("[ROBOT_CONTROL] Ricevuto XML:"+receivedECSData);
+                        string xmlnonxml = receivedECSData.Substring(1, receivedECSData.Length - 2);
+                        if (xmlnonxml.EndsWith("@"))
+                        {
+                            Debug.WriteLine("[ROBOT_CONTROL] XML finisce con @");
+                            int lastHyphenIndex = xmlnonxml.Length - 1;
+                            int secondLastHyphenIndex = xmlnonxml.LastIndexOf('@', lastHyphenIndex - 1);
 
-                        exp = ComUtils.XmlUtils.Deserialize<FaceExpression>(receivedECSData);
-                        SetFacialExpression(exp.valence, exp.arousal);
+
+                            if (secondLastHyphenIndex != -1)
+                            {
+                                string timeString = xmlnonxml.Substring(secondLastHyphenIndex + 1, lastHyphenIndex - (secondLastHyphenIndex + 1));
+                                if (int.TryParse(timeString, out int parsedTime))
+                                {
+                                    animationDurationMs = parsedTime;
+                                    xmlnonxml = xmlnonxml.Substring(0, secondLastHyphenIndex);
+                                    Debug.WriteLine($"Parsed custom time: {animationDurationMs}ms.");
+                                }
+                            }
+                        }
+
+                        receivedECSData = '"' + xmlnonxml + '"';
+                        Debug.WriteLine("[ROBOT_CONTROL] Deserializzo XML:" + receivedECSData);
+                        exp = ComUtils.XmlUtils.Deserialize<FaceExpression>(receivedECSData);  // bombardino
+                        SetFacialExpression(exp.valence, exp.arousal, animationDurationMs);
 
                         receivedECSData = null;
                         exp = null;
@@ -490,7 +514,7 @@ namespace Act.Control.HUBRobotControl
             }
         }
 
-        private void SetFacialExpression(float pleasure, float arousal)
+        private void SetFacialExpression(float pleasure, float arousal, int animationDurationMs = -1)
         {
             try
             {
@@ -508,7 +532,12 @@ namespace Act.Control.HUBRobotControl
 
                 lock (this)
                 {
-                    yarpPortSetFacialMotors.sendData(ComUtils.XmlUtils.Serialize<List<ServoMotor>>(motionECS.ServoMotorsList));
+                    string notxml = ComUtils.XmlUtils.Serialize<List<ServoMotor>>(motionECS.ServoMotorsList);
+                    if(animationDurationMs > 0)
+                    {
+                        notxml += "@" + animationDurationMs.ToString() + "@";
+                    }
+                    yarpPortSetFacialMotors.sendData(notxml);
                 }
 
                

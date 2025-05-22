@@ -25,6 +25,7 @@ using System.Windows.Shapes;
 using YarpManagerCS;
 
 using Sense.Lib.FACELibrary;
+using System.Globalization;
 
 namespace Act.Face.FACEGui20.View
 {
@@ -279,6 +280,9 @@ namespace Act.Face.FACEGui20.View
             }
         }
 
+
+        // OLD FUNCTION
+        /*
         void ReceiveDataSetMotors(object sender)
         {
 
@@ -377,7 +381,133 @@ namespace Act.Face.FACEGui20.View
                 }
             }
         }
+        */
 
+        // god please forgive me for this trash
+        // if £xxxx£ is found at the end of the XML xxxx is the expression time in milliseconds
+        void ReceiveDataSetMotors(object sender)
+        {
+
+            while (!yarpStatus)
+                System.Threading.Thread.Sleep(200);
+
+            Stopwatch stopWatch = new Stopwatch();
+            stopWatch.Start();
+
+            while (!closing)
+            {
+                if (!parent.yarpExpressionOn)
+                    System.Threading.Thread.Sleep(200);
+
+                yarpPortSetMotors.receivedData(out receivedSetMotors);
+                if (receivedSetMotors != null && receivedSetMotors != "" && parent.yarpExpressionOn)
+                {
+                       Debug.WriteLine("[FACE_GUI] Ricevuto XML:"+receivedSetMotors);
+                        int animationDurationMs = parent.expressionTime;
+
+                        string xmlnonxml = receivedSetMotors.Substring(1, receivedSetMotors.Length - 2);
+                        if (xmlnonxml.EndsWith("@"))
+                        {
+                            Debug.WriteLine("[FACE_GUI] XML finisce con @");
+                            int lastHyphenIndex = xmlnonxml.Length - 1;
+                            int secondLastHyphenIndex = xmlnonxml.LastIndexOf('@', lastHyphenIndex - 1);
+
+
+                            if (secondLastHyphenIndex != -1)
+                            {
+                                string timeString = xmlnonxml.Substring(secondLastHyphenIndex + 1, lastHyphenIndex - (secondLastHyphenIndex + 1));
+                                if (int.TryParse(timeString, out int parsedTime))
+                                {
+                                    animationDurationMs = parsedTime;
+                                    xmlnonxml = xmlnonxml.Substring(0, secondLastHyphenIndex);
+                                    Debug.WriteLine($"Parsed custom time: {animationDurationMs}ms.");
+                                }
+                            }
+                        }
+
+
+                        receivedSetMotors = '"' + xmlnonxml + '"';
+                        Debug.WriteLine("[FACE_GUI] Continuo a processare:"+ receivedSetMotors);
+                    try
+                    {
+                        List<ServoMotor> newListMotorsPosistion = new List<ServoMotor>();
+
+                        string xml = receivedSetMotors;
+                        xml = xml.Replace(@"\", "");
+                        xml = xml.Substring(1, xml.Length - 2);
+
+                        if (xml.Substring(0, 1) == "?")
+                            xml = xml.Remove(0, 1);
+
+                        //Debug.WriteLine(xml.Substring(0, 5));
+                        if (xml.Substring(0, 5) == "<?xml")
+                        {
+                            try
+                            {
+                                newListMotorsPosistion = ComUtils.XmlUtils.Deserialize<List<ServoMotor>>(receivedSetMotors);
+
+
+                                //check exists new positions
+                                if (newListMotorsPosistion.FindAll(a => ((a.PulseWidthNormalized <= 0 && a.PulseWidthNormalized >= 1) && (a.PulseWidthNormalized != -1.0))).Count > 0)
+                                    continue;
+
+
+                                parent.TextTIME.Dispatcher.Invoke(
+                                           System.Windows.Threading.DispatcherPriority.Normal,
+                                           new Action(() => parent.TextTIME.Text = string.Format("{0} ms", stopWatch.Elapsed.Milliseconds))
+                                 );
+
+                                parent.SetNewPositionMotors(newListMotorsPosistion, TimeSpan.FromMilliseconds(animationDurationMs));
+
+
+                            }
+                            catch (Exception ex)
+                            {
+                                MessageBox.Show(ex.Message);
+                            }
+
+                            stopWatch.Restart();
+
+                        }
+                        else
+                        {
+                            switch (receivedSetMotors)
+                            {
+                                case "none":
+                                    break;
+                                case "Yes":
+                                    RobotControl.StartYesMovement();
+                                    break;
+                                case "No":
+                                    RobotControl.StartNoMovement();
+                                    break;
+                                case "OpenEyes":
+                                    parent.OpenEyes();
+                                    break;
+                                case "CloseEyes":
+                                    parent.CloseEyes();
+                                    break;
+                                default:
+                                    MessageBox.Show("Moviement Unknown");
+                                    break;
+                            }
+                        }
+
+
+
+
+
+
+                    }
+                    catch (Exception exc)
+                    {
+                        Debug.WriteLine("Error XML Set motors: " + exc.Message);
+                    }
+
+
+                }
+            }
+        }
 
         void ReceiveDataButtons(object sender)
         {
